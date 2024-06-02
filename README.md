@@ -1,2 +1,3 @@
 # video
-an array since an array can hold multiple items and we can easily add, remove, or iterate over them.
+https://www.loom.com/share/1c961b267bb841858a96de7b48f868d8
+
